@@ -1,1 +1,1 @@
-# Merkle tree in solidity
+# Merkle Tree Solidity smart contract to verify transaction.
